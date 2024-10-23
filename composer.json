@@ -1,0 +1,21 @@
+{
+    "name": "fauzy/data-validator",
+    "description": "A PHP package to validate various types of data such as emails, URLs, phone numbers, etc.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DataValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fauzy",
+            "email": "keperluansekolahfauzy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
+
